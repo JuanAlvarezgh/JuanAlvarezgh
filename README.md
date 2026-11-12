@@ -30,12 +30,14 @@ Estudiante de 7.º semestre de Ingeniería de Datos y Software en la Universidad
       <br>62.941 detecciones satelitales de la NASA analizadas; incendios extremos identificados con un modelo estadístico.
     </td>
     <td width="50%" valign="top">
-      <a href="https://juanalvarezgh.github.io/#proyectos"><img src="https://juanalvarezgh.github.io/img/mra-arquitectura.webp" alt="Arquitectura de la plataforma MRA"></a>
-      <br><b><a href="https://juanalvarezgh.github.io/#proyectos">MRA: observatorio inmobiliario</a></b>
-      <br>82.030 observaciones de arriendo, PostGIS, API y modelos de precio con explicaciones SHAP.
+      <a href="https://github.com/JuanAlvarezgh/arriendo-medellin"><img src="https://juanalvarezgh.github.io/img/arriendos-pot.webp" alt="Mapa del POT de Medellín con los tratamientos urbanos"></a>
+      <br><b><a href="https://github.com/JuanAlvarezgh/arriendo-medellin">Ordenamiento territorial y arriendo</a></b>
+      <br>Qué permite el POT en cada polígono de Medellín y qué pasa con el precio del arriendo ahí.
     </td>
   </tr>
 </table>
+
+También: **MRA, observatorio inmobiliario del Valle de Aburrá**. 82.030 observaciones de arriendo integradas y modelos de precio con validación temporal y explicaciones SHAP. Detalles en el [portafolio](https://juanalvarezgh.github.io/#proyectos).
 
 ## Ingeniería de datos
 
