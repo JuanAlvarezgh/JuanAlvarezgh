@@ -2,7 +2,7 @@
 
 **Ingeniería de datos, análisis de datos y geoanalítica** | Medellín, Colombia
 
-Analista e ingeniero de datos con un año de experiencia en SOMAR Ingeniería S.A.S. y estudiante de 7.º semestre de Ingeniería de Datos y Software en la Universidad de San Buenaventura. Construyo pipelines de datos con Python, SQL, Apache Airflow y dbt, diseño bodegas de datos y convierto la información en decisiones con estadística, análisis geoespacial y tableros en Power BI.
+Estudiante de 7.º semestre de Ingeniería de Datos y Software en la Universidad de San Buenaventura. Construyo pipelines de datos con Python, SQL, Apache Airflow y dbt, diseño bodegas de datos y convierto la información en decisiones con estadística, análisis geoespacial y tableros en Power BI.
 
 **[Portafolio](https://juanalvarezgh.github.io)** | **[Hoja de vida (PDF)](https://juanalvarezgh.github.io/Juan-Carlos-Alvarez-Arias-Hoja-de-Vida.pdf)** | **[LinkedIn](https://www.linkedin.com/in/juanalvarezgh)** | **[Correo](mailto:jnc.alvarez19@gmail.com)**
 
